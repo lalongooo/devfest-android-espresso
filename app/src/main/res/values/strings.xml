@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevFestAndroidEspresso</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hint_your_username">Your username</string>
+    <string name="hint_your_password">Your password</string>
+    <string name="welcome">Welcome</string>
+
+</resources>
